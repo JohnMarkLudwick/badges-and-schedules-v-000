@@ -6,7 +6,7 @@ end
 
 def batch_badge_creator(attendees)
   attendees = []
-  attendees.each{|attendee|}
+  attendees.each{"Hello, my name is |attendee|}
   return "Hello, my name is #{attendees}."
 end
 
