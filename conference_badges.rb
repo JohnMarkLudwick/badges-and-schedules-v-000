@@ -13,6 +13,9 @@ def batch_badge_creator(array)
 end
 
 
+
+
+
 # name = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 #   array.each{"Hello, my name is #{speaker}"}
 #   return speaker
