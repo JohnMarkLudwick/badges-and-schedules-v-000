@@ -1,1 +1,25 @@
-# Write your code here.
+people = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
+
+def badge_maker(name)
+  return "Hello, my name is #{name}."
+end
+
+# name = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
+#   array.each{"Hello, my name is #{speaker}"}
+#   return speaker
+
+
+
+
+
+
+# def square_array(array)
+#   number = []
+#   array.each{|a| number.push(a*a)}
+#   return number
+# end
+
+
+
+
+
